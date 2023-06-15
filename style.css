@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #FF0000;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .container {
+    background-color: #F0F0F0;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  ul li:first-child {
+    font-weight: bold;
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+  }
+  
+  tbody tr:hover {
+    background-color: #FFFFCC;
+  }
+  
+  th {
+    background-color: #000000;
+    color: #FFFFFF;
+  }
